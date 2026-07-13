@@ -32,9 +32,9 @@ struct PerformanceTesting: View {
                         cache.store()
                     }
 
-//                    Button("🌍 Network Request") {
-//                        NetworkTest().download()
-//                    }
+                    Button("🌍 Network Request") {
+                        NetworkTest().download()
+                    }
 //
 //                    Button("💾 File Write") {
 //                        FileTest().writeLargeFile()
